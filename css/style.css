@@ -1,0 +1,19 @@
+#tebeos {
+    list-style-type: lower-alpha;
+}
+
+#comics {
+    list-style-type: upper-roman;
+}
+
+#cabecera {
+    margin-bottom: 0px;
+}
+
+#tabppal {
+    margin-top: 0px;
+}
+
+.coms {
+    padding-left: 20px;
+}
